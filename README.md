@@ -1,3 +1,6 @@
+# This is just a fork
+I just uploaded it on pypi. Huge thanks to gil9red.
+
 # pastebin3
 A http://pastebin.com/ API wrapper for Python 3 (#python, #python3, #pastebin, #api, #wrapper)
 
